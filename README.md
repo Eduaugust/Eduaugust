@@ -2,7 +2,7 @@
 - 👀 I’m interested in competitive programming, Full-Stack stufs, AI and ML
 - 🌱 I'm currently learning NestJs and computer vision.
 - 💞️ I’m looking to collaborate on AI, ML (Python), Back-End in node.JS, mobile in React Native/Flutter and web with React.JS
-- 🔭 I’m currently working at <a href="https://www.linkedin.com/company/icourtbrasil/">ICourt</a>
+- 🔭 I’m currently working at <a href="https://defensepoint.com/">Defense Point</a>
 - 📫 <a href="https://eduaugust.github.io/">Click here</a> to reach me
 - ![](https://komarev.com/ghpvc/?username=Eduaugust)
 
